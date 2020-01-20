@@ -11,13 +11,3 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
-def speak_to_grandma(string)
-  if string != string.upcase
-    return "HUH?! SPEAK UP, SONNY!"
-  else string.lowercase
-    return "NO, NOT SINCE 1938!"
-  elsif string.upcase 
-    return "I LOVE YOU TOO PUMPKIN!"
-    end
-  end
-end
